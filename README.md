@@ -37,7 +37,9 @@ Co-Board is an exhilarating real-time collaborative whiteboard application desig
 
 ![Co-Board Login Page](public/assets/1.png)
 
-![Co-Board Home Page](public/assets/1.png)
+
+
+![Co-Board Home Page](public/assets/2.png)
 
 Add more screenshots to showcase the captivating user interface of Co-Board.
 
