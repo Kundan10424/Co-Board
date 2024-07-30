@@ -15,7 +15,7 @@ Co-Board is an exhilarating real-time collaborative whiteboard application desig
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/co-board.git
+   git clone https://github.com/Kundan10424/co-board.git
    ```
 
 2. Install dependencies:
