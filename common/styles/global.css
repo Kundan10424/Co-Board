@@ -21,11 +21,11 @@
     @apply rounded-xl border p-5 py-1;
   }
 
-  .overflow-overlay {
+/*   .overflow-overlay {
     overflow-y: scroll;
     overflow-y: overlay;
   }
-}
+} */
 
 .drag {
   cursor: grab;
